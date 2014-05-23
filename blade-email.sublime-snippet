@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-{{ Form::email('$1', null, array('id'=>'$2')) }}
+{{ Form::email('$1', null, ['id'=>'$2']) }}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>%email</tabTrigger>
