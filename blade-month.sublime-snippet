@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{{ Form::selectMonth('$1') }}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>%month</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>blade.php</scope> -->
+    <description>Blade Select Month</description>
+</snippet>

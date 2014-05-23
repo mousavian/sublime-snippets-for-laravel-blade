@@ -7,6 +7,7 @@ Sublime 3 snippets for Laravel blade files
 |  Trigger   	|  Content                                        |
 |:--------------|-------------------------------------------------|
 |  %Form     	|  `{{ Form::open() }}`                           |
+|  		     	|  `{{ Form::close() }}`                          |
 |  %label    	|  `{{ Form::label('', '') }}`                    |
 |  %text     	|  `{{ Form::text('') }}`                         |
 |  %password 	|  `{{ Form::password('', array('id'=>'')) }}`    |
