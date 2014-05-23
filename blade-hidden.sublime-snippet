@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{{ Form::hidden('$1', '$2') }}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>%hidden</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>blade.php</scope> -->
+    <description>Blade Hidden Input</description>
+</snippet>

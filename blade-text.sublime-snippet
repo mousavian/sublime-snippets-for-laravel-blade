@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{{ Form::text('$1') }}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>%text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>blade.php</scope> -->
+    <description>Blade Text Input</description>
+</snippet>
