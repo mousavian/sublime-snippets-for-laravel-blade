@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{{ HTML::mailto($1) }}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>%mailto</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>blade.php</scope> -->
+    <description>Blade Mailto</description>
+</snippet>

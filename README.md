@@ -21,3 +21,9 @@ Sublime 3 snippets for Laravel blade files
 |  %month 	    |  `{{ Form::selectMonth('') }}`                  |
 |  %button   	|  `{{ Form::button() }}`                         |
 |  %submit   	|  `{{ Form::submit() }}`                         |
+|  	         	|  	                                              |
+|  %mailto   	|  `{{ HTML::mailto($address) }}`                 |
+|  %image   	|  `{{ HTML::image($path) }}`                     |
+|  %ul      	|  `{{ HTML::ul($list) }}`                        |
+|  %style   	|  `{{ HTML::style($path) }}`                     |
+|  %script   	|  `{{ HTML::script($path) }}`                    |
